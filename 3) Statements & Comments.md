@@ -12,10 +12,10 @@
 - The end of a statement is marked by a newline character.
 - We can make a statement extend over multiple lines with the line continuation character. **\**
 
-EX: Explicit line continuation
-- s
-a = 1 + 2 + 3 + \
-    4 + 5 + 6 + \
-    7 + 8 + 9
+EX: Explicit Line Continuation
+
+        a = 1 + 2 + 3 + \
+            4 + 5 + 6 + \
+            7 + 8 + 9
 
 - Line continuation is implied inside paranthesis **( )**, brackets **[ ]**, and braces **{ }**.
