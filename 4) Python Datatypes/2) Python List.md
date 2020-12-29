@@ -1,4 +1,4 @@
-# Python List
+# Python List Data Structure
 - Learn about Python lists, how they are created, slicing of a list, adding or removing elements etc.
 
 ## How to create a list?
