@@ -46,7 +46,7 @@
 
 # Python Data Structures
 https://www.edureka.co/blog/data-structures-in-python/
-![](https://github.com/JeffLoboz/LearnPython/blob/main/images/TreeStructure-Data-Structures-in-Python-Edureka1.png)
+![](https://github.com/JeffLoboz/LearnPython/blob/main/images/python-data-structures.jpeg)
 
 ### Lists(Built-in)
 
