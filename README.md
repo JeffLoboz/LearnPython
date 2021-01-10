@@ -43,6 +43,14 @@
 ### Loops and Iterables
     for x in range(100):
         print("loop")
+        
+### Functions
+
+### Mutable & Immutable Data Types
+
+### Common Methods
+
+### File IO
 
 # Python Data Structures
 https://towardsdatascience.com/data-structures-in-python-a-brief-introduction-b4135d7a9b7d
@@ -71,3 +79,8 @@ https://towardsdatascience.com/data-structures-in-python-a-brief-introduction-b4
 ### String
 
 ### Boolean
+
+
+
+
+# Intermediate
