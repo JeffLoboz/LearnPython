@@ -45,27 +45,29 @@
         print("loop")
 
 # Python Data Structures
-https://www.edureka.co/blog/data-structures-in-python/
+https://towardsdatascience.com/data-structures-in-python-a-brief-introduction-b4135d7a9b7d
 ![](https://github.com/JeffLoboz/LearnPython/blob/main/images/python-data-structures.jpeg)
 
-### Lists(Built-in)
+### List
 
-### Sets(Built-in)
+### Tuple
 
-### Tuple(Built-in)
+### Set
 
-### Dictionaries(Built-in)
-
-### Arrays vs. List
+### Dictionary
 
 ### Stack
 
 ### Queue
 
-### Trees
+### Tree
 
-### Linked Lists
+### Graph
 
-### Graphs
+### Integer
 
-### HashMaps
+### Float
+
+### String
+
+### Boolean
