@@ -1,6 +1,6 @@
 # Mastering Python: What you NEED to know.
 
-## Basics
+# Basics
 
 ### Variables
     x = 1
@@ -41,5 +41,30 @@
         print("Bye..")
     
 ### Loops and Iterables
-for x in range(100):
-    print("loop")
+    for x in range(100):
+        print("loop")
+
+# Python Data Structures
+https://www.edureka.co/blog/data-structures-in-python/
+
+### Lists(Built-in)
+
+### Sets(Built-in)
+
+### Tuple(Built-in)
+
+### Dictionaries(Built-in)
+
+### Arrays vs. List
+
+### Stack
+
+### Queue
+
+### Trees
+
+### Linked Lists
+
+### Graphs
+
+### HashMaps
