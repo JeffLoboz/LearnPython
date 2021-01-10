@@ -1,6 +1,7 @@
 # Variables
 
 A variable is a box that can hold data. 
+
 CODE:
 
     hello = "Jeff"
