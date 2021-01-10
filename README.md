@@ -52,8 +52,17 @@
 
 ### File IO
 
-# Python Data Structures
+
+
+
+
+
+# Intermediate
+
+
+## Python Data Structures
 https://towardsdatascience.com/data-structures-in-python-a-brief-introduction-b4135d7a9b7d
+https://www.algoexpert.io/product
 ![](https://github.com/JeffLoboz/LearnPython/blob/main/images/python-data-structures.jpeg)
 
 ### List
@@ -80,7 +89,8 @@ https://towardsdatascience.com/data-structures-in-python-a-brief-introduction-b4
 
 ### Boolean
 
+## Object Oriented Programming
 
+## Comprehensions
 
-
-# Intermediate
+## Lambda Functions
