@@ -14,5 +14,12 @@
     -9.2
 
 ### String
+    Anything surrounded by single or double quotation marks.
+    A sequence of characters or numbers.
+    "HEllo"
+    "24.21"
+    'Hey WHATS up'
 
 ### Bool
+True (1)
+False (0)
