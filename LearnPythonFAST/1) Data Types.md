@@ -21,5 +21,5 @@
     'Hey WHATS up'
 
 ### Bool
-True (1)
-False (0)
+    True (1)
+    False (0)
