@@ -1,6 +1,7 @@
 # Variables
 
 A variable is a box that can hold data. 
+CODE:
 
     hello = "Jeff"
     earth = "world"
@@ -13,6 +14,13 @@ A variable is a box that can hold data.
     hello = "car"
     print(hello, earth, "\n")
 
+OUTPUT: 
+
+    Jeff world 
+
+    Jeff Jeff 
+
+    car Jeff 
 
 
 
