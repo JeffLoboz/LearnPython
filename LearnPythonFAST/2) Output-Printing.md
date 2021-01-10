@@ -1,4 +1,4 @@
-Code:
+## Code:
 
     print("Hello World!")
     print(20)
@@ -11,7 +11,7 @@ Code:
 
 
 
-Output:
+## Output:
 
     Hello World!
     20
