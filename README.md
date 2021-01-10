@@ -91,6 +91,30 @@ https://www.algoexpert.io/product
 
 ## Object Oriented Programming
 
+### Inheritance
+### Polymorphism
+### Encapsulation
+
 ## Comprehensions
 
 ## Lambda Functions
+
+## Collections Module 
+## Map & Filter
+
+## *args & **kwargs
+
+## Dunder Methods (Double Underscore)
+
+## PIP (Python Package Manager)
+
+## Environments
+
+## Making your own Modules
+
+## Async IO
+
+
+
+
+# Advanced
